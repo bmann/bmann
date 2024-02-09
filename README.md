@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-My [blog](https://blog.bmannconsulting.com) is where you'll see bits and pieces of activity, most of which is cross posted to Mastodon [@bmann@social.coop](https://social.coop/@bmann). You can peer into the depths of my brain by looking through my [second brain / notes garden](https://bmannconsulting.com).
+I'm the co-founder of @fission-codes [Fission](https://github.com/fission-codes). We're a protocol research team working on distributed systems, cryptography, and edge compute.
 
-I'm the co-founder of @fission-codes [Fission](https://github.com/fission-codes).
+Our main product is the [Everywhere Computer](https://everywhere.computer), running serverless Wasm functions from browser to server.
 
-For front end devs, check out the [Webnative SDK](https://webnative.dev): a local-first, edge computing stack.
+Other open source protocols and research are linked from the [@fission-codes README »](https://github.com/fission-codes/#building-protocols-for-the-future-of-the-internet)
 
-We also do a significant amount of protocol engineering work around open standards at Fission. Check out the [@fission-codes README for a full list and links »](https://github.com/fission-codes/#building-protocols-for-the-future-of-the-internet)
+I post a lot of [short journal entries](https://bmannconsulting.com/journa/) which are cross-posted to most social networks you can name. [bmann.ca](https://bmann.ca) has a full list of places where you might find me. 
 
 I'm interested in open source, cooperative and collective models, and supporting developers and other makers in getting paid.
-
 
 
