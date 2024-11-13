@@ -2,7 +2,7 @@
 
 My name is Boris Mann, and I am based in Vancouver, BC, Canada.
 
-I post a lot of [short journal entries](https://bmannconsulting.com/journa/) which are cross-posted to most social networks you can name. [bmann.ca](https://bmann.ca) has a full list of places where you might find me. 
+I post a lot of [short journal entries](https://bmannconsulting.com/journal/) which are cross-posted to most social networks you can name. [bmann.ca](https://bmann.ca) has a full list of places where you might find me. 
 
 Github stars are publicly posted to [🦋 Bluesky @bmannconsulting.com](https://bsky.app/profile/bmannconsulting.com)
 
